@@ -60,6 +60,6 @@ I'm **Francis**, a **Computer Science** student on a quest to bridge the realms 
 💌 Feel free to reach out if you share similar interests or just want to chat!
 
 - **Email:** [official.patiphat@hotmail.com](mailto:official.patiphat@hotmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/ptpar](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn:** [https://www.linkedin.com/in/ptpar](https://www.linkedin.com/in/ptpar)
 
 ---
