@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://i.postimg.cc/pL95sNBg/logobanner.png" alt="Banner" width="300"/>
-</div>
-
-
 # 👋 Hi, Everyone! 
 
 A **Computer Science** student on a quest to bridge the realms of **data science** and **biology**. I believe in the power of technology to transform lives and create innovative solutions.
