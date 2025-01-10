@@ -9,7 +9,7 @@ A **Computer Science** student on a quest to bridge the realms of **data science
 
 ---
 
-## 🎨 My Skills
+## 🎨 My Technologies
 <table>
   <tr>
     <td><img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html" width="50"/></td>
