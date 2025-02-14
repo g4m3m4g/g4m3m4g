@@ -11,10 +11,8 @@ A **Computer Science** student on a quest to bridge the realms of **data science
     <td><img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css" width="50"/></td>
     <td><img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="50"/></td>
     <td><img src="https://www.svgrepo.com/show/373705/js-official.svg" alt="JavaScript" width="50"/></td>
-    <td><img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="TypeScript" width="50"/></td>
     <td><img src="https://www.svgrepo.com/show/354118/nodejs.svg" alt="nodejs" width="50"/></td>
     <td><img src="https://www.svgrepo.com/show/452092/react.svg" alt="reactjs" width="50"/></td>
-    <td><img src="https://www.svgrepo.com/show/354112/nextjs.svg" alt="nextjs" width="50"/></td>
     <td><img src="https://www.svgrepo.com/show/374167/vite.svg" alt="vitejs" width="50"/></td>
     
     
