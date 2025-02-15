@@ -1,58 +1,54 @@
-# 👋 Hi, Everyone! 
+# 👋 Hi, I'm Patiphat!
 
-A **Computer Science** student on a quest to bridge the realms of **data science** and **biology**. I believe in the power of technology to transform lives and create innovative solutions.
-
----
-
-## 🎨 My Technologies
-<table>
-  <tr>
-    <td><img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html" width="50"/></td>
-    <td><img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css" width="50"/></td>
-    <td><img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="50"/></td>
-    <td><img src="https://www.svgrepo.com/show/373705/js-official.svg" alt="JavaScript" width="50"/></td>
-    <td><img src="https://www.svgrepo.com/show/354118/nodejs.svg" alt="nodejs" width="50"/></td>
-    <td><img src="https://www.svgrepo.com/show/452092/react.svg" alt="reactjs" width="50"/></td>
-    <td><img src="https://www.svgrepo.com/show/374167/vite.svg" alt="vitejs" width="50"/></td>
-    
-    
-  </tr>
-  
-  <tr>
-    <td><img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="50"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50"/></td>
-    <td><img src="https://www.svgrepo.com/show/373482/c.svg" alt="C" width="50"/></td>
-    <td><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="50"/></td>
-    <td><img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="jupyer" width="50"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="50"/></td>
-    <td><img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" width="50"/></td>
-    <td><img src="https://www.svgrepo.com/show/448236/linux.svg" alt="linux" width="50"/></td>
-    <td><img src="https://www.svgrepo.com/show/374171/vscode.svg" alt="vscode" width="50"/></td>
-
-  </tr>
-
-</table>
+A **Computer Science** student passionate about bridging **data science** and **biology**. I believe in leveraging technology to create innovative solutions that transform lives.
 
 ---
 
-## 🚀 My Projects Journey
+## 🛠️ Technologies & Tools
 
-**Coming soon...**
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 
+### Backend & Data
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=black)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+**Coming soon...**  
+Stay tuned for exciting projects at the intersection of data science and biology!
 
 ---
 
 ## 🌱 Currently Learning
-- Genetic algorithms in data science
-- Advanced React patterns
-- Machine learning model deployment
+
+- Genetic algorithms in data science  
+- Advanced React patterns  
+- Machine learning model deployment  
 
 ---
 
 ## 📫 Let’s Connect!
-💌 Feel free to reach out if you share similar interests or just want to chat!
 
-- **Email:** [official.patiphat@hotmail.com](mailto:official.patiphat@hotmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/ptpar](https://www.linkedin.com/in/ptpar)
+💌 Feel free to reach out if you share similar interests or just want to chat!  
+
+- **Email:** [official.patiphat@hotmail.com](mailto:official.patiphat@hotmail.com)  
+- **LinkedIn:** [Patiphat P.](https://www.linkedin.com/in/ptpar)  
 
 ---
