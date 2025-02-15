@@ -56,9 +56,3 @@ Stay tuned for exciting projects at the intersection of data science and biology
 
 - **Email:** [official.patiphat@hotmail.com](mailto:official.patiphat@hotmail.com)  
 - **LinkedIn:** [Patiphat P.](https://www.linkedin.com/in/ptpar)  
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Coding GIF" width="300" />
-</div>
