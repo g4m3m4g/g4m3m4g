@@ -1,6 +1,5 @@
 # 👋 Hi, I'm **Patiphat**!
 
-A **Computer Science** student passionate about bridging **data science** and **biology**. I believe in leveraging technology to create innovative solutions that transform lives.
 
 ---
 
@@ -32,13 +31,6 @@ A **Computer Science** student passionate about bridging **data science** and **
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </div>
-
----
-
-## 🚀 **Projects**
-
-**Coming soon...**  
-Stay tuned for exciting projects at the intersection of data science and biology!
 
 ---
 
