@@ -42,14 +42,6 @@
 
 ---
 
-## 🌱 **Currently Learning**
-
-- **Genetic algorithms** in data science  
-- **Advanced React patterns**  
-- **Machine learning model deployment**  
-
----
-
 ## 📫 **Let’s Connect!**
 
 💌 Feel free to reach out if you share similar interests or just want to chat!  
