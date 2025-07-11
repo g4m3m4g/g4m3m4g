@@ -1,7 +1,3 @@
-# 👋 Hi, I'm **Patiphat**!
-
-
----
 
 ## 🛠️ **Technologies & Tools**
 
