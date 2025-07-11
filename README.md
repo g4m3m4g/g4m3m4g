@@ -39,12 +39,3 @@
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </div>
-
----
-
-## 📫 **Let’s Connect!**
-
-💌 Feel free to reach out if you share similar interests or just want to chat!  
-
-- **Email:** [official.patiphat@hotmail.com](mailto:official.patiphat@hotmail.com)  
-- **LinkedIn:** [Patiphat P.](https://www.linkedin.com/in/ptpar)  
