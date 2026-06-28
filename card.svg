@@ -1,70 +1,99 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="370" viewBox="0 0 560 370">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="340" viewBox="0 0 640 340">
   <defs>
-    <style>
-      .mono { font-family: 'Courier New', Courier, monospace; }
-      .sans { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; }
-    </style>
-    <radialGradient id="glow" cx="85%" cy="15%" r="45%">
-      <stop offset="0%" stop-color="#c8f542" stop-opacity="0.07"/>
-      <stop offset="100%" stop-color="#c8f542" stop-opacity="0"/>
-    </radialGradient>
-    <clipPath id="rounded">
-      <rect width="560" height="370" rx="16"/>
-    </clipPath>
+    <style>.m { font-family: 'Courier New', Courier, monospace; }</style>
   </defs>
 
-  <!-- Card background -->
-  <rect width="560" height="370" rx="16" fill="#111111"/>
-  <rect width="560" height="370" rx="16" fill="url(#glow)"/>
-  <rect width="560" height="370" rx="16" fill="none" stroke="#1e1e1e" stroke-width="1"/>
+  <!-- Background -->
+  <rect width="640" height="340" rx="13" fill="#f8f8f6"/>
+  <rect width="640" height="340" rx="13" fill="none" stroke="#dedede" stroke-width="1"/>
 
-  <!-- Tag -->
-  <rect x="52" y="44" width="58" height="20" rx="4" fill="rgba(200,245,66,0.08)" stroke="rgba(200,245,66,0.18)" stroke-width="1"/>
-  <text x="81" y="58" text-anchor="middle" class="mono" font-size="9" fill="#c8f542" letter-spacing="1.5">PROFILE</text>
+  <!-- Title bar -->
+  <rect width="640" height="40" rx="13" fill="#eeeeec"/>
+  <rect y="27" width="640" height="13" fill="#eeeeec"/>
+  <line x1="0" y1="40" x2="640" y2="40" stroke="#dedede" stroke-width="1"/>
+  <circle cx="22" cy="20" r="5.5" fill="#d8d8d8"/>
+  <circle cx="40" cy="20" r="5.5" fill="#d8d8d8"/>
+  <circle cx="58" cy="20" r="5.5" fill="#d8d8d8"/>
+  <text x="320" y="24" text-anchor="middle" class="m" font-size="11" fill="#b0b0b0">bash — GAMIE</text>
 
-  <!-- Name -->
-  <text x="52" y="124" class="sans" font-size="54" font-weight="700" fill="#f0f0f0" letter-spacing="-1.5">GAMIE</text>
+  <!-- =============== TEXT =============== -->
 
-  <!-- Tagline -->
-  <text x="52" y="148" class="sans" font-size="12.5" font-weight="300" fill="#4a4a4a">a programmer. interested in how things break.</text>
+  <text x="28" y="80" class="m" font-size="14">
+    <tspan fill="#c4a000">$</tspan><tspan fill="#1c1c1c"> whoami</tspan>
+  </text>
 
-  <!-- Divider -->
-  <line x1="52" y1="168" x2="508" y2="168" stroke="#1e1e1e" stroke-width="1"/>
+  <text x="28" y="104" class="m" font-size="14" fill="#8a8a8a">gamie</text>
 
-  <!-- Stack label -->
-  <text x="52" y="192" class="mono" font-size="8.5" fill="#444444" letter-spacing="2">STACK</text>
+  <text x="28" y="144" class="m" font-size="14">
+    <tspan fill="#c4a000">$</tspan><tspan fill="#1c1c1c"> cat stack.txt</tspan>
+  </text>
 
-  <!-- typescript pill -->
-  <rect x="52" y="200" width="98" height="26" rx="6" fill="#0f0f0f" stroke="#1e1e1e" stroke-width="1"/>
-  <text x="101" y="217" text-anchor="middle" class="mono" font-size="11" fill="#888888">typescript</text>
+  <text x="28" y="168" class="m" font-size="14" fill="#8a8a8a">typescript · java · bash · linux</text>
 
-  <!-- java pill -->
-  <rect x="158" y="200" width="50" height="26" rx="6" fill="#0f0f0f" stroke="#1e1e1e" stroke-width="1"/>
-  <text x="183" y="217" text-anchor="middle" class="mono" font-size="11" fill="#888888">java</text>
+  <text x="28" y="208" class="m" font-size="14">
+    <tspan fill="#c4a000">$</tspan><tspan fill="#1c1c1c"> cat focus.txt</tspan>
+  </text>
 
-  <!-- bash pill -->
-  <rect x="216" y="200" width="50" height="26" rx="6" fill="#0f0f0f" stroke="#1e1e1e" stroke-width="1"/>
-  <text x="241" y="217" text-anchor="middle" class="mono" font-size="11" fill="#888888">bash</text>
+  <text x="28" y="232" class="m" font-size="14" fill="#8a8a8a">offensive security.</text>
+  <text x="28" y="256" class="m" font-size="14" fill="#8a8a8a">ethical hacking.</text>
 
-  <!-- linux pill -->
-  <rect x="274" y="200" width="52" height="26" rx="6" fill="#0f0f0f" stroke="#1e1e1e" stroke-width="1"/>
-  <text x="300" y="217" text-anchor="middle" class="mono" font-size="11" fill="#888888">linux</text>
+  <text x="28" y="296" class="m" font-size="14" fill="#c4a000">$</text>
 
-  <!-- Focus label -->
-  <text x="52" y="252" class="mono" font-size="8.5" fill="#444444" letter-spacing="2">FOCUS</text>
+  <!-- Cursor -->
+  <rect x="38" y="282" width="9" height="16" fill="#c4a000" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0;0" dur="0.9s" begin="5.6s" repeatCount="indefinite"/>
+  </rect>
 
-  <!-- Focus block -->
-  <rect x="52" y="260" width="456" height="58" rx="8" fill="#0d0d0d" stroke="#1e1e1e" stroke-width="1"/>
-  <rect x="52" y="260" width="2.5" height="58" rx="1" fill="#c8f542"/>
+  <!-- =============== COVERS ===============      -->
+  <!-- Fix: animate both x (→ right) and width     -->
+  <!-- (→ 0) so text reveals LEFT → RIGHT          -->
 
-  <text x="70" y="283" class="sans" font-size="13" font-weight="500" fill="#cccccc">focused on offensive security.</text>
-  <text x="70" y="302" class="sans" font-size="11.5" font-weight="300" fill="#4a4a4a">finding gaps before someone else does.</text>
+  <!-- $ whoami — t=0.5s, dur=0.5s -->
+  <rect x="28" y="65" width="76" height="20" fill="#f8f8f6">
+    <animate attributeName="x"     from="28"  to="104" dur="0.5s"  begin="0.5s"  fill="freeze"/>
+    <animate attributeName="width" from="76"  to="0"   dur="0.5s"  begin="0.5s"  fill="freeze"/>
+  </rect>
 
-  <!-- Pulsing dot -->
-  <circle cx="52" cy="344" r="4" fill="#c8f542">
-    <animate attributeName="opacity" values="1;0.15;1" dur="2s" repeatCount="indefinite"/>
-  </circle>
+  <!-- gamie — t=1.3s -->
+  <rect x="28" y="89" width="50" height="20" fill="#f8f8f6">
+    <animate attributeName="x"     from="28"  to="78"  dur="0.05s" begin="1.3s"  fill="freeze"/>
+    <animate attributeName="width" from="50"  to="0"   dur="0.05s" begin="1.3s"  fill="freeze"/>
+  </rect>
 
-  <!-- Email -->
-  <text x="66" y="348" class="mono" font-size="11" fill="#4a4a4a">hi@patiphat.com</text>
+  <!-- $ cat stack.txt — t=2.1s, dur=0.72s -->
+  <rect x="28" y="129" width="136" height="20" fill="#f8f8f6">
+    <animate attributeName="x"     from="28"  to="164" dur="0.72s" begin="2.1s"  fill="freeze"/>
+    <animate attributeName="width" from="136" to="0"   dur="0.72s" begin="2.1s"  fill="freeze"/>
+  </rect>
+
+  <!-- typescript... — t=3.0s -->
+  <rect x="28" y="153" width="280" height="20" fill="#f8f8f6">
+    <animate attributeName="x"     from="28"  to="308" dur="0.05s" begin="3.0s"  fill="freeze"/>
+    <animate attributeName="width" from="280" to="0"   dur="0.05s" begin="3.0s"  fill="freeze"/>
+  </rect>
+
+  <!-- $ cat focus.txt — t=3.7s, dur=0.72s -->
+  <rect x="28" y="193" width="136" height="20" fill="#f8f8f6">
+    <animate attributeName="x"     from="28"  to="164" dur="0.72s" begin="3.7s"  fill="freeze"/>
+    <animate attributeName="width" from="136" to="0"   dur="0.72s" begin="3.7s"  fill="freeze"/>
+  </rect>
+
+  <!-- offensive security. — t=4.6s -->
+  <rect x="28" y="217" width="170" height="20" fill="#f8f8f6">
+    <animate attributeName="x"     from="28"  to="198" dur="0.05s" begin="4.6s"  fill="freeze"/>
+    <animate attributeName="width" from="170" to="0"   dur="0.05s" begin="4.6s"  fill="freeze"/>
+  </rect>
+
+  <!-- finding gaps... — t=4.85s -->
+  <rect x="28" y="241" width="332" height="20" fill="#f8f8f6">
+    <animate attributeName="x"     from="28"  to="360" dur="0.05s" begin="4.85s" fill="freeze"/>
+    <animate attributeName="width" from="332" to="0"   dur="0.05s" begin="4.85s" fill="freeze"/>
+  </rect>
+
+  <!-- $ prompt — t=5.6s -->
+  <rect x="28" y="281" width="14" height="20" fill="#f8f8f6">
+    <animate attributeName="x"     from="28"  to="42"  dur="0.05s" begin="5.6s"  fill="freeze"/>
+    <animate attributeName="width" from="14"  to="0"   dur="0.05s" begin="5.6s"  fill="freeze"/>
+  </rect>
+
 </svg>
